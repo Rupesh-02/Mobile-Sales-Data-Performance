@@ -2,10 +2,12 @@
 
 
 📌 Project Overview:
+
 This project is a Power BI dashboard developed to analyze mobile sales data and generate business insights from different 
 brands, cities, customers, and payment methods.
 
 The dashboard helps in understanding:
+
   ● Sales performance of different mobile brands
   ● Customer purchasing behavior
   ● City-wise sales analysis
@@ -15,6 +17,7 @@ The dashboard helps in understanding:
 
 
 🛠️ Tools & Technologies Used
+
 ● Power BI – Data visualization and dashboard creation
 ● Microsoft Excel – Dataset storage and preprocessing
 ● DAX – Data calculations and measures
@@ -22,6 +25,7 @@ The dashboard helps in understanding:
 
   
 📂 Project Files
+
 File Name                                   	Description
 Mobile Sales Data Dashboard.pbix	       Power BI dashboard file
 Mobile Sales Dataset.xlsx	               Dataset used for analysis
@@ -29,6 +33,7 @@ README.md	                                 Project documentation
 
 
 📊 Dataset Information
+
 The dataset contains mobile sales transaction records with the following fields:
   ● Transaction ID
   ● Day
@@ -47,6 +52,7 @@ The dataset contains mobile sales transaction records with the following fields:
 
   
 📈 Dashboard Features
+
 ✅ Sales Analysis
   ● Total Sales Overview
   ● Brand-wise Revenue Analysis
@@ -72,6 +78,7 @@ The dataset contains mobile sales transaction records with the following fields:
 
 
 🚀 How to Use
+
 ● Download the project files.
 ● Open Mobile Sales Data Dashboard.pbix in Power BI Desktop.
 ● Load or refresh the dataset if required.
@@ -79,6 +86,7 @@ The dataset contains mobile sales transaction records with the following fields:
 
 
 🎯 Key Insights
+
 Based on the dashboard analysis:
 Total Sales: 769M
 Total Quantity Sold: 19K units
@@ -113,6 +121,7 @@ Payment usage is relatively balanced among available methods.
 
 
 🔮 Future Improvements:
+
 Add advanced KPIs and forecasting
 Create real-time data integration
 Add drill-through analysis pages
